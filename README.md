@@ -8,3 +8,6 @@ https://github.com/cdcdccd/cdcdccd.github.io/blob/master/predicting-clicks-faceb
 
 https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
 
+3. Modeling Delayed Feedback in Display Advertising
+在cvr预估中，解决数据回传不及时的问题
+http://olivier.chapelle.cc/pub/delayedConv.pdf
